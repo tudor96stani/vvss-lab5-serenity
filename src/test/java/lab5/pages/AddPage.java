@@ -45,11 +45,11 @@ public class AddPage extends PageObject {
         this.category.type(category);
     }
 
-    public void lookup_terms() {
+    public void add_product() {
         addBtn.click();
     }
 
-    public List<String> getDefinitions() {
+    public List<String> getResult() {
         WebElementFacade definitionList = find(By.id("res"));
         String text = definitionList.getText();
         List<String> list = new ArrayList<>();

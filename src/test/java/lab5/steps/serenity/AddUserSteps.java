@@ -19,13 +19,13 @@ public class AddUserSteps {
     }
 
     @Step
-    public void starts_search() {
-        page.lookup_terms();
+    public void starts_adding() {
+        page.add_product();
     }
 
     @Step
-    public void should_see_definition(String definition) {
-        assertThat(page.getDefinitions(), hasItem(containsString(definition)));
+    public void should_see_result(String definition) {
+        assertThat(page.getResult(), hasItem(containsString(definition)));
     }
 
     @Step
@@ -34,8 +34,8 @@ public class AddUserSteps {
     }
 
     @Step
-    public void looks_for(String code,String name,String category,String quantity) {
+    public void adds(String code, String name, String category, String quantity) {
         enters(code,name,category,quantity);
-        starts_search();
+        starts_adding();
     }
 }

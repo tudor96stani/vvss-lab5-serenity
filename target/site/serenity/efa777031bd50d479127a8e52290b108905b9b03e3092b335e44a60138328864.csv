@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Add product story","Adding incorrect data should display the error message","SUCCESS","2018-05-10T17:02:49.419+03:00[Europe/Bucharest]","0.0","7.13"
+"Add product story","Adding correct data should display the success message","SUCCESS","2018-05-10T17:02:56.918+03:00[Europe/Bucharest]","0.0","4.39"
+"Search by keyword story","Searching by keyword computer should display the corresponding article","SUCCESS","2018-05-10T17:03:02.886+03:00[Europe/Bucharest]","0.0","10.36"
+"Search by keyword story","Searching by keyword banana should display the corresponding article","SUCCESS","2018-05-10T17:03:13.274+03:00[Europe/Bucharest]","0.0","5.87"
+"Search by keyword story","Searching by keyword elephant should display the corresponding article","SUCCESS","2018-05-10T17:03:19.164+03:00[Europe/Bucharest]","0.0","5.81"
+"Search by keyword story","Searching by ambiguious keyword should display the disambiguation page","PENDING","2018-05-10T17:03:24.971+03:00[Europe/Bucharest]","0.0","0.11"
+"Search by keyword story","Searching by keyword apple should display the corresponding article","SUCCESS","2018-05-10T17:03:25.11+03:00[Europe/Bucharest]","0.0","6.26"

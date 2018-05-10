@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="lab5.features.search.AddProductStory" skipped="0" tests="1" time="7.68" timestamp="2018-05-10T16:59:58.513+03:00[Europe/Bucharest]"><testcase classname="lab5.features.search.AddProductStory" name="Adding correct data should display the success message"/></testsuite>

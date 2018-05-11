@@ -1,0 +1,3 @@
+CODE,NAME,CATEGORY,QUANTITY,RESULT
+123,Chocolate,Food,12,Added
+-123,Chocolate,Food,12,Not added

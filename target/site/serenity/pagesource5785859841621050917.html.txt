@@ -1,0 +1,14 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+    <meta charset="UTF-8" />
+    <title>Add</title>
+</head>
+<body>
+    <form action="AddServlet" method="post">
+        <input type="text" placeholder="Code" name="code" />
+        <input type="text" placeholder="Name" name="name" />
+        <input type="text" placeholder="Category" name="category" />
+        <input type="text" placeholder="Quantity" name="quantity" />
+        <input type="submit" name="addBtn" />
+    </form>
+
+</body></html>

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: lab5.features.search.SearchByKeywordStory
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 28.793 sec - in lab5.features.search.SearchByKeywordStory
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 28.502 sec - in lab5.features.search.SearchByKeywordStory
